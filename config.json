@@ -3,7 +3,7 @@
     {
       "radio_name": "ESXBrasil Radio",
       "radio_genre": "Varios",
-      "radio_url": "http://45.64.98.181:9764/stream",
+      "radio_url": "https://www.partyviberadio.com:8069/",
       "radio_image_url": "https://avatars.githubusercontent.com/u/38238351?s=280&v=4",
       "background_image_url": "https://i.pinimg.com/originals/9b/2f/cf/9b2fcfc4838dbcbe8b97e2e038789e6b.gif"
     }
@@ -38,7 +38,7 @@
     {
       "social_name": "Website",
       "social_icon": "https://image.flaticon.com/icons/png/512/61/61027.png",
-      "social_url": "https://solodroid.net/demo/your_single_radio/page.html"
+      "social_url": "https://www.esxbrasi.host/"
     },
     {
       "social_name": "Facebook",
